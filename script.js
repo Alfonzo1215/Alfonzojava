@@ -7,10 +7,4 @@ function rewritefunction(){
   var inputgas = prompt("What is the current cost of a Gallon of gas");
   var Averagecost = prompt("Average yearly cost based on MPG ");
 }
-
-
-  writefunction(inputmiles,inputgas);
- 
-
-
 coolStuffEle.innerHTML=prompter;
